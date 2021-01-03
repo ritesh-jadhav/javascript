@@ -1,0 +1,19 @@
+.bg-light-purple{
+    background-color: rgb(213, 188, 224);
+    }
+    .is-form-valid{
+        border: 1px solid limegreen;
+        border-left: 15px solid limegreen;
+        box-shadow: 0 0 5px limegreen;
+    }
+    .is-form-invalid{
+        border: 1px solid rgb(233, 21, 57);
+        border-left: 15px solid rgb(233, 21, 57);
+        box-shadow: 0 0 5px rgb(233, 21, 57);
+    }
+    .text-sucess{
+        color: limegreen !important;
+    }
+    .text-danger{
+        color: orangered !important;
+    }
